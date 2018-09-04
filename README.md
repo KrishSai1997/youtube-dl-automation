@@ -13,3 +13,5 @@ Components:
 dlscript.sh is my original barebones script, designed to only examine a links.txt file that I had on my system. This ought to be considered obsolete.
 
 dlscript2.sh is a version of the script designed to read and act on any user-specified file, and will give useful feedback for successful and failed actions.
+
+dlscript2.1.sh is the newest version with some minor fixes.
