@@ -4,6 +4,8 @@
 
 read -p "Enter file name here: " FILENAME
 
+echo "Working..."
+
 #Begin automated download process
 
 if [ -e $FILENAME ]; then
