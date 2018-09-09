@@ -10,7 +10,7 @@ echo "Working..."
 
 if [ -e $FILENAME ]; then
 
-for LINKS in (cat $FILENAME); do
+for LINKS in $(cat $FILENAME); do
 
 {
   youtube-dl $LINKS
